@@ -1,0 +1,116 @@
+####Top stories
+https://www.indiatoday.in/rss/1206584
+https://www.indiatoday.in/rss/home                 ###home
+https://www.thehindu.com/feeder/default.rss        ###home
+https://www.oneindia.com/rss/news-india-fb.xml       ###features
+http://feeds.feedburner.com/ScrollinArticles.rss
+https://www.headlinesoftoday.com/feed
+https://news.abplive.com/news/india/feed
+https://media.republicservices.com/news-releases?pagetemplate=rsss
+https://indianexpress.com/rss
+https://www.news18.com/rss/india.xml
+htthttps://www.deccanchronicle.com/rss_feed/ps://www.deccanchronicle.com/rss_feed/
+https://prod-qt-images.s3.amazonaws.com/production/thequint/feed.xml
+https://www.asianage.com/rss_feed/
+https://blog.feedspot.com/indian_news_rss_feeds/
+https://www.bhaskarlive.in/feed/
+https://economictimes.indiatimes.com/rssfeedstopstories.cms
+http://www.moneycontrol.com/rss/MCtopnews.xml
+http://feeds.bbci.co.uk/news/rss.xml        ####bbc
+https://www.aljazeera.com/xml/rss/all.xml   ####aljazeera
+http://rss.cnn.com/rss/edition.rss   ###cnn
+https://www.wired.com/feed/rss          the wire
+
+####Politics
+https://aninews.in/rss/feed/category/national/politics.xml
+http://feeds.bbci.co.uk/news/politics/rss.xml               ####bbc
+https://www.economist.com/asia/rss.xml                      ###The economist
+
+
+#####Business
+https://aninews.in/rss/feed/category/business.xml
+https://www.outlookindia.com/rss/section/18
+https://www.oneindia.com/rss/news-business-fb.xml
+https://zeenews.india.com/rss/business.xml
+https://news.abplive.com/business/feed
+https://www.news18.com/rss/business.xml
+https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml
+https://www.business-standard.com/rss/latest.rss
+https://www.financialexpress.com/feed/
+http://www.moneycontrol.com/rss/business.xml
+http://feeds.bbci.co.uk/news/business/rss.xml    ###bbc
+https://www.economist.com/business/rss.xml       ###economist
+https://www.wired.com/feed/category/business/latest/rss 
+
+
+####World
+https://aninews.in/rss/feed/category/world.xml
+http://www.moneycontrol.com/rss/worldnews.xml
+
+
+
+#####Sports
+https://aninews.in/rss/feed/category/sports.xml
+https://www.outlookindia.com/rss/section/22
+https://www.indiatoday.in/rss/1206550
+https://www.thehindu.com/sport/feeder/default.rss
+https://www.oneindia.com/rss/news-sports-fb.xml
+https://zeenews.india.com/rss/sports-news.xml
+https://news.abplive.com/sports/feed
+http://www.moneycontrol.com/rss/sports.xml
+http://www.news18.com/rss/cricketnext.xml   ###cricket
+https://www.france24.com/en/sport/rss       ###france24
+http://rss.cnn.com/rss/edition_sport.rss    #####cnn
+
+
+#####Lifestyle
+https://aninews.in/rss/feed/category/lifestyle.xml
+https://www.outlookindia.com/rss/section/25
+https://www.outlookindia.com/rss/section/24           ####Books
+https://www.thehindu.com/life-and-style/feeder/default.rss
+https://news.abplive.com/lifestyle/feed
+http://feeds.bbci.co.uk/news/education/rss.xml         #####Education and family by bbc
+
+
+#####Entertainment
+https://aninews.in/rss/feed/category/entertainment.xml
+https://www.indiatoday.in/rss/1206551
+https://zeenews.india.com/rss/entertainment-news.xml
+http://rss.cnn.com/rss/edition_entertainment.rss     ###cnn
+
+
+
+#######Health
+https://aninews.in/rss/feed/category/health.xml
+https://zeenews.india.com/rss/health-news.xml
+http://feeds.bbci.co.uk/news/health/rss.xml          #####bbc
+https://www.france24.com/en/health/rss            ##france24
+
+
+
+#######Science
+https://aninews.in/rss/feed/category/science.xml
+https://zeenews.india.com/rss/science-environment-news.xml
+http://feeds.bbci.co.uk/news/science_and_environment/rss.xml     ####bbc
+http://rss.cnn.com/rss/edition_space.rss                         ####cnn
+https://www.wired.com/feed/category/science/latest/rss    ####wired
+https://www.economist.com/science-and-technology/rss.xml        ####The economist
+
+####Technology
+https://aninews.in/rss/feed/category/tech.xml
+https://news.abplive.com/technology/gadgets/feeds
+https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+http://www.moneycontrol.com/rss/technology.xml
+http://feeds.bbci.co.uk/news/technology/rss.xml                #####bbc
+https://www.france24.com/en/business/rss                   ###france24(Business and technology)
+http://rss.cnn.com/rss/edition_technology.rss    ###cnn
+
+
+#####Envirionment
+https://aninews.in/rss/feed/category/environment.xml
+https://www.thehindu.com/entertainment/feeder/default.rss
+http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml      ####bbc
+
+######Travel
+http://rss.cnn.com/rss/edition_travel.rss   ######cnn
+
